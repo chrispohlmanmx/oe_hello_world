@@ -11,3 +11,5 @@ My plan is to have each PR I merge to main progessively increase the websites co
 I want to push my website as far as I can in terms of complexity without reaching for modern abstraction layers until I absolutely need them specifically to force myself to encounter the numerous limits of my current knowledge around building websites. I plan to do this both within the code for the website itself as well as the deployment of the website so I can learn more about the process top to bottom. 
 
 I plan to do write ups about how this process goes periodically on my website which you can read [here](https://chrispohlman.com/garden).
+
+The eventual goal is to have a **wildly** over engineered but spectacularly pointless website deployed, hopefully learning a lot along the way. 
